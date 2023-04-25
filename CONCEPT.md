@@ -6,10 +6,11 @@ of stars in time.
 
 ## Idea
 The idea is to write a script that will take data from NASA 
-database, Juliet and Lightcurve api. Then write some general
-algorithm that process picture or data sets of stars.
-Then search for exoplanets in data and return if there is
-or there is not an exoplanet.  
+database, [Juliet](https://juliet.readthedocs.io/en/latest/index.html) 
+and [Lightcurve](https://docs.lightkurve.org/index.html) api.
+Then write some general algorithm that process picture or 
+data sets of stars. Then search for exoplanets in data and return 
+if there is or there is not an exoplanet.  
 
 ## Expected result
 The expected result is to have a functional code with few 
