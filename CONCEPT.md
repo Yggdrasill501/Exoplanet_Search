@@ -19,4 +19,5 @@ or Deepnote.
 ## Nice to have
 To write some simple app with simple UI. To create UML sheet
 that will describe how the code works. And to make it with 
-the smallest computing capacity as possible.
+the smallest computing capacity as possible.Run some unit tests. 
+If possible contribute or implement in to some open source framework.
