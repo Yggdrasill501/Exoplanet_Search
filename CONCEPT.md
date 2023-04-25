@@ -1,13 +1,13 @@
 # Exoplanet Search
 ## Concept
-app/algorithm that should help astronomers help to 
+Concept is to create script that will help astronomers help to 
 extract data and find exoplanets from frames and pictures
 of stars in time.
 
 ## Idea
 The idea is to write script that will take data from NASA 
-database, Juliet and Lightcurve api. Tha write some general
-algorithm that proces picture or data sets of stars than,
+database, Juliet and Lightcurve api. Then write some general
+algorithm that process picture or data sets of stars than,
 then search for exoplanets in data and return if there is
 or there is not exoplanet.  
 
