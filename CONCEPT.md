@@ -14,7 +14,7 @@ or there is not an exoplanet.
 ## Expected result
 The expected result is to have a functional code with few 
 examples of exoplanets found. To write a report in Jupyter
-or Deepnote.
+or Deepnote. Create presentation in Notion or Deepnote
 
 ## Nice to have
 To write some simple app with simple UI. To create UML sheet
