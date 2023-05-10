@@ -1,2 +1,4 @@
 juliet
 lightkurve
+numpy
+matplotlib
