@@ -5,9 +5,11 @@ extract data and find exoplanets from frames and pictures
 of stars in time.
 
 ## Idea
-The idea is to write a script that will take data from NASA 
+The idea is to write a script that will take data from NASA and ESA
 database, [Juliet](https://juliet.readthedocs.io/en/latest/index.html) 
 and [Lightcurve](https://docs.lightkurve.org/index.html) api.
+The data will be taken from Tess, Kepler and Huble telescope.
+
 Then write some general algorithm that process picture or 
 data sets of stars. Then search for exoplanets in data and return 
 if there is or there is not an exoplanet.  
