@@ -32,4 +32,5 @@ Sources:
  - [Tess archive](https://archive.stsci.edu/hlsps/tess-data-alerts/)
  - [Lightcurve](https://docs.lightkurve.org/) 
  - [Aladin Lite](https://aladin.u-strasbg.fr/AladinLite/)
+ - [Astroquery](https://astroquery.readthedocs.io/en/latest/)
 
