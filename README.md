@@ -20,11 +20,11 @@ examples of exoplanets found. To write a report in Jupyter
 or Deepnote. Create presentation in Notion or Deepnote
 
 ## Nice to have
-To write some simple app with simple UI. To create UML sheet
+To write some simple app with simple UI using wigets from (IpyAladin)[https://github.com/cds-astro/ipyaladin/blob/master/ipyaladin-screenshot.png] . To create UML sheet
 that will describe how the code works. And to make it with 
-the smallest computing capacity as possible.Run some unit tests. 
+the smallest computing capacity as possible. Run some unit tests. 
 If possible contribute or implement in to some open source framework.
-Creat Comunication publish with Curvenote. Cotribute and implent the project into (Ipyaladin)[https://aladin.u-strasbg.fr/AladinLite/]
+Creat Comunication publish with Curvenote.
 
 Sources:
 -----------------------------
