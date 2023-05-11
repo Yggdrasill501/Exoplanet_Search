@@ -11,4 +11,4 @@ Run the analyses and save, plot and compare results
 Create the simple web app that will be static and dynamic
 ideally using jupyter and its extensions
 
-crate report and documentation of the proces :)
+crate report and documentation of the proces
