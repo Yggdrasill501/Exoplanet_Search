@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-
-
+""" File to run whole project """
 #from settings import *
 #from tess import Tess
 

@@ -36,3 +36,21 @@ Sources:
  - [Astroquery](https://astroquery.readthedocs.io/en/latest/)
  - [Astropy](https://astroquery.readthedocs.io/en/latest/)
 
+##  logic to add
+    - create class for trying to find exoplanet automaticly
+    - create method/function that will try to find it on the spectrum by prolonging the days period
+    - write automation for getting data from [MAST](https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html)
+    - write a checker for already found stars from [exoMast](https://exo.mast.stsci.edu/)
+
+## Pseudo
+    -Create list or dicitonary that will store names and additional parrameters from Tess, Huble and Kepler (...others)
+
+    -Create mutliple examples of analyses of exoplanet search from each telescope from bouth Lightcurve and Julia in jupyter
+
+    -Create classes and scripts what will automate analyses
+
+    -Run the analyses and save, plot and compare results
+
+    -Create the simple web app that will be static and dynamic ideally using jupyter and its extensions
+
+    -crate report and documentation of the proces
