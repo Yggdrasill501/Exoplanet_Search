@@ -8,3 +8,7 @@ class Parser:
    def get_xml(self) -> None:
       """Method that get layout of the website"""
       pass
+
+   def run(self) -> None:
+      """Method to run Parser class"""
+      self.get_xml()
