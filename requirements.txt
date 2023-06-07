@@ -2,3 +2,4 @@ juliet
 lightkurve
 numpy
 matplotlib
+pip
