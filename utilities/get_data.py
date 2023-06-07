@@ -18,8 +18,9 @@ class GetData:
 
         self.url = 'https://www.mast.stsci.edu/api/v0.1/Download/bundle.zip?previews=false&obsid='
         self.url.join(product_group_id)
+        self.sateliet = 'tess'
 
-        self.destination = '/tess_data/'
+        self.destination = f'/{self.sateliet}_data/'
 
     @abstractmethod
     def download_files(self) -> None:
