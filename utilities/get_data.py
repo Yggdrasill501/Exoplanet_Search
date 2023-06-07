@@ -9,14 +9,15 @@ from abc import abstractmethod
 class GetData:
     """Class to download and unzip data from Tess"""
 
-    def __init__(self) -> None:
+    def __init__(self, product_group_id: str) -> None:
         """Initialize class"""
-        self.http_response = None
-        self.zip_file = None
-        self.product_group_id = None
+        self.http_response: str
+        self.zip_file: str
+
         self.url = 'https://www.mast.stsci.edu/api/v0.1/Download/bundle.zip?previews=false&obsid='
-        self.url += self.product_group_id
-        self.destination = '/TESS/'
+        self.url.join(product_group_id)
+
+        self.destination = '/tess_data/'
 
     @abstractmethod
     def download_files(self) -> None:

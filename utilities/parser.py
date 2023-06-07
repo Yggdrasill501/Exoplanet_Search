@@ -1,14 +1,15 @@
 # -*- coding: utf-8 -*-
 """File to parse data from Mast website"""
 
+
 class Parser:
-   def __init__(self) -> None:
-      self.url = ''
+    def __init__(self) -> None:
+        self.url = ''
 
-   def get_xml(self) -> None:
-      """Method that get layout of the website"""
-      pass
+    def get_xml(self) -> None:
+        """Method that get layout of the website"""
+        pass
 
-   def run(self) -> None:
-      """Method to run Parser class"""
-      self.get_xml()
+    def run(self) -> None:
+        """Method to run Parser class"""
+        self.get_xml()
