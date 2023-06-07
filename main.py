@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """ File to run whole project """
-from utilities.get_data import GetData
-from utilities.parser import Parser
 #from settings import *
 #from tess import Tess
 

@@ -7,6 +7,4 @@ class Parser:
 
    def get_xml(self) -> None:
       """Method that get layout of the website"""
-
-
-
+      pass
