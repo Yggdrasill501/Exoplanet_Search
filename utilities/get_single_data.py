@@ -6,7 +6,8 @@ from zipfile import ZipFile
 from abc import abstractmethod
 
 
-class GetData:
+
+class GetSingleData:
     """Class to download and unzip data from Tess"""
 
     def __init__(self, product_group_id: str) -> None:

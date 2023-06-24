@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """Package to gather data from Sateliets"""
-from utilities.get_data import GetData
+from utilities.get_single_data import GetSingleData
 from utilities.parser import Parser
 
 
