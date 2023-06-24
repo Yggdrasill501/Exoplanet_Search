@@ -3,3 +3,5 @@ lightkurve
 numpy
 matplotlib
 pip
+requests
+pytest
